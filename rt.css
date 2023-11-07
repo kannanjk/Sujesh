@@ -17,12 +17,12 @@
 /* mobile format */
 @media only screen and (max-width:610px) {
   body {
-    background-color: red;
+    background-color: rgb(248, 142, 142);
   }
 
-  div {
+  .div {
     display: flex;
-    background-color: greenyellow;
+    background-color: rgb(206, 255, 47);
     width: 100%;
     height: 100px;
   }
@@ -33,8 +33,21 @@
     color: rgb(100, 111, 237);
   }
 
-  img {
+  .hr {
     border-radius: 900px;
     width: 90px;
   }
+  .su{
+    margin-left: 35%;
+    color: black;
+ }
+ .para{
+  color: beige;
+  text-align: center;
+ }
+ .fr{
+  width: 400px;
+  height: 410px;
+  margin-left: 8%;
+ }
 }
