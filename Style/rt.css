@@ -1,0 +1,38 @@
+/* desk top format */
+@media only screen and (min-width:790px) {
+    body{
+        background-color: orange;
+    }
+}
+ 
+
+/* tab format */
+@media only screen and (max-width:800px) {
+   body{
+    background-color: yellow;
+   }
+}
+
+
+    /* mobile format */
+    @media only screen and (max-width:610px) {
+      body{
+        background-color: red;
+      }
+        div{
+            display: flex;
+        background-color: greenyellow;
+        width: 100% ;
+        height: 100px;
+      }
+      h1{
+      margin-left: 100px;
+      padding: 14px;
+      color: rgb(100, 111, 237);
+      }
+      img{
+        border-radius: 900px;
+        width: 90px;
+      }
+    }
+    
