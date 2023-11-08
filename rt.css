@@ -48,6 +48,15 @@
  .fr{
   width: 250px;
   height: 410px;
-  margin-left: 10%;
+  margin-left: 14%;
  }
+ h2{
+  margin-left: 50px;
+  color: grey;
+ }
+ .para1{
+  color: azure;
+  text-align: center;
+ }
+
 }
