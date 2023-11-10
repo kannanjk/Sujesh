@@ -37,26 +37,58 @@
     border-radius: 900px;
     width: 90px;
   }
-  .su{
+
+  .su {
     margin-left: 35%;
     color: black;
- }
- .para{
-  color: beige;
-  text-align: center;
- }
- .fr{
-  width: 250px;
-  height: 410px;
-  margin-left: 14%;
- }
- h2{
-  margin-left: 50px;
-  color: grey;
- }
- .para1{
-  color: azure;
-  text-align: center;
- }
+  }
 
+  .para {
+    color: beige;
+    text-align: center;
+  }
+
+  .fr {
+    width: 250px;
+    height: 410px;
+    margin-left: 14%;
+  }
+
+  h2 {
+    margin-left: 50px;
+    color: grey;
+  }
+
+  .para1 {
+    color: azure;
+    text-align: center;
+  }
+
+  .sj {
+    margin-left: 30px;
+    color: rgb(242, 243, 242);
+  }
+
+  .df {
+    color: black;
+    margin-right: 8px;
+  }
+
+  .vg {
+    color: black;
+    font-size: 18px;
+  }
+
+  .xc {
+    margin-left: 9px;
+    color: greenyellow;
+  }
+
+  .con {
+    color: blueviolet;
+  }
+
+  input {
+    width: 95%;
+  }
 }
