@@ -86,12 +86,12 @@
 
   .con {
     color: blueviolet;
+    margin-left: 145px;
   }
 
   input {
     width: 95%;
     margin-left: 10px;
-    /* border: black; */
     height: 40px;
     border: 2px solid rgb(177, 169, 169);
     border-radius: 10px;
@@ -99,6 +99,28 @@
 
   .form {
     padding: 10px;
+  }
+
+  .messege {
+    height: 100px;
+  }
+
+  .messege::placeholder {
+    text-align: center;
+  }
+
+  button {
+    margin-left: 187px;
+    background-color: rgb(66, 66, 199);
+    color: aliceblue;
+    font-size: 20px;
+    height: 47px;
+    border-radius: 30px;
+    width: 150px;
+    border: rgb(102, 102, 231);
+  }
+  button:hover{
+    background-color: yellow;
 
   }
 }
