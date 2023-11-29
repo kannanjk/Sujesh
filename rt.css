@@ -31,7 +31,7 @@
   }
 
   h1 {
-    margin-left: 15%;
+    margin-left: 100px;
     padding: 14px;
     color: rgb(100, 111, 237);
   }
@@ -39,11 +39,10 @@
   .hr {
     border-radius: 900px;
     width: 90px;
-    margin-left: 9px;
   }
 
   .su {
-    margin-left: 27%;
+    margin-left: 35%;
     color: black;
   }
 
@@ -90,7 +89,7 @@
 
   .con {
     color: blueviolet;
-    margin-left: 23%;
+    margin-left: 68px;
   }
 
   input {
@@ -114,7 +113,7 @@
   }
 
   button {
-    margin-left: 30%;
+    margin-left: 90px;
     background-color: rgb(66, 66, 199);
     color: aliceblue;
     font-size: 20px;
@@ -128,6 +127,6 @@
   }
   .dd{
     color: gold;
-    margin-left: 23%;
+    margin-left: 70px;
   }
 }
